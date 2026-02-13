@@ -4,4 +4,4 @@
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vegetam&layout=compact&theme=radical)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vegetam&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=Vegetam&theme=radical)
