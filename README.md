@@ -83,4 +83,8 @@ https://github.com/Vegetam/Udacity-nasa-mission-intelligence) | A retrieval-augm
 ---
 
 ### Top Languages
+
 ![Top Languages](./profile/top-langs.svg)
+
+### Stats Profile
+![Stats](./profile/stats.svg)
