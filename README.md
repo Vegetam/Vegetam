@@ -33,10 +33,10 @@ migrations in regulated banking environments
 
 | Title | Technologies |
 |--|--|
-| [Spring AI](https://github.com/Vegetam/SpringAIDemo) | Java, Spring, Spring AI, OpenAI,REST API |
-| [Spring Webflux Demo](https://github.com/Vegetam/SpringWebFluxDemo/Crystal-Absolute-Photon-Energy-Calibration) |Java,Spring,Spring Webflux,REST API |
+| [Spring AI](https://github.com/Vegetam/SpringAIDemo) | Java, Spring, Spring AI, OpenAI, REST API |
+| [Spring Webflux Demo](https://github.com/Vegetam/SpringWebFluxDemo) | Java, Spring, Spring Webflux, REST API |
 | [EasyPrep](https://easy-prep-ai.vercel.app/) | SAAS, Next.JS, Node.js, OPENAI |
-| [EasyObjectDetection](https://vision-ai-detection-mj8aymlu3ahzkjvr8cza8v.streamlit.app/) | Python, Pythorch, YOLOv8, StreamLit |
+| [EasyObjectDetection](https://vision-ai-detection-mj8aymlu3ahzkjvr8cza8v.streamlit.app/) | Python, PyTorch, YOLOv8, StreamLit |
 
 ---
 
@@ -44,9 +44,8 @@ migrations in regulated banking environments
 
 | Project | Description |
 |--|--|
-| [Recent code](
-https://github.com/Vegetam/Udacity-nasa-mission-intelligence) | A retrieval-augmented Q&A system over NASA mission documents: Apollo 11, Apollo 13, and Challenger / STS-51L. Answers are grounded in retrieved NASA text chunks stored in ChromaDB. |
-| [Udacity-lora-letter-count-rl](https://github.com/Vegetam/Udacity-lora-letter-count-rl) | The code instantiates a trainable PEFT model before training |
+| [Udacity NASA Mission Intelligence](https://github.com/Vegetam/Udacity-nasa-mission-intelligence) | A retrieval-augmented Q&A system over NASA mission documents: Apollo 11, Apollo 13, and Challenger / STS-51L. Answers are grounded in retrieved NASA text chunks stored in ChromaDB. |
+| [Udacity LoRA Letter Count RL](https://github.com/Vegetam/Udacity-lora-letter-count-rl) | Trainable PEFT model using LoRA for reinforcement learning |
 | [Udacity OmniTrainer](https://github.com/Vegetam/OmniTrainer) | AI-powered moderation for text, images, audio, and video using Pydantic AI and Google Gemini. |
 
 ---
@@ -82,13 +81,20 @@ https://github.com/Vegetam/Udacity-nasa-mission-intelligence) | A retrieval-augm
 
 ---
 
-### Top Languages
-
-![Top Languages](./profile/top-langs.svg)
-
-### Stats Profile
-![Stats](./profile/stats.svg)
+### 📌 Architecture PoC Projects
 
 ![Microservices](./profile/pin-microservices.svg)
 ![Terraform](./profile/pin-terraform.svg)
 ![Saga](./profile/pin-saga.svg)
+
+---
+
+### 📊 Top Languages
+
+![Top Languages](./profile/top-langs.svg)
+
+---
+
+### 📈 Stats Profile
+
+![Stats](./profile/stats.svg)
