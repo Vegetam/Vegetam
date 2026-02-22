@@ -29,8 +29,33 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate pin card microservices
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: "username=Vegetam&repo=microservices-ddd-kafka"
+          path: profile/pin-microservices.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card terraform
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: "username=Vegetam&repo=terraform-multicloud"
+          path: profile/pin-terraform.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card saga
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: "username=Vegetam&repo=Saga-pattern-architecture"
+          path: profile/pin-saga.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
+          mkdir -p profile
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
