@@ -88,3 +88,7 @@ https://github.com/Vegetam/Udacity-nasa-mission-intelligence) | A retrieval-augm
 
 ### Stats Profile
 ![Stats](./profile/stats.svg)
+
+![Microservices](./profile/pin-microservices.svg)
+![Terraform](./profile/pin-terraform.svg)
+![Saga](./profile/pin-saga.svg)
