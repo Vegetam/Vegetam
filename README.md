@@ -87,9 +87,7 @@ These projects represent my architecture portfolio across distributed systems, c
 platform engineering, and reliability patterns.
 
 <p align="left">
-  <a href="https://github.com/Vegetam/Architecture-Project">
-    <img src="./profile/pin-architecture.svg" alt="Architecture Project" />
-  </a>
+[![Architecture Project](https://github-readme-stats.vercel.app/api/pin/?username=Vegetam&repo=Architecture-Project&theme=default)](https://github.com/Vegetam/Architecture-Project)
 </p>
 
 <p align="left">
