@@ -81,11 +81,45 @@ migrations in regulated banking environments
 
 ---
 
-### 📌 Architecture PoC Projects
+### 🏗️ Architecture & Cloud Engineering Portfolio
 
-![Microservices](./profile/pin-microservices.svg)
-![Terraform](./profile/pin-terraform.svg)
-![Saga](./profile/pin-saga.svg)
+These projects represent my architecture portfolio across distributed systems, cloud infrastructure,
+platform engineering, and reliability patterns.
+
+<p align="left">
+  <a href="https://github.com/Vegetam/Architecture-Project">
+    <img src="./profile/pin-architecture.svg" alt="Architecture Project" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Vegetam/Saga-pattern-architecture">
+    <img src="./profile/pin-saga.svg" alt="Saga Pattern Architecture" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Vegetam/microservices-ddd-kafka">
+    <img src="./profile/pin-microservices.svg" alt="Microservices DDD Kafka" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Vegetam/terraform-multicloud">
+    <img src="./profile/pin-terraform.svg" alt="Terraform Multicloud" />
+  </a>
+</p>
+
+#### Portfolio Architecture Story
+
+| Layer | Project | Focus |
+|---|---|---|
+| Platform Engineering | [Architecture-Project](https://github.com/Vegetam/Architecture-Project) | GitOps, observability, progressive delivery, chaos engineering |
+| Distributed Reliability | [Saga-pattern-architecture](https://github.com/Vegetam/Saga-pattern-architecture) | Saga orchestration, compensation, idempotency, resilience |
+| Application Architecture | [microservices-ddd-kafka](https://github.com/Vegetam/microservices-ddd-kafka) | DDD, Kafka, CQRS, transactional outbox |
+| Cloud Infrastructure | [terraform-multicloud](https://github.com/Vegetam/terraform-multicloud) | Terraform, AWS, Azure, GCP, Kubernetes baseline |
+
+Together, these repositories demonstrate how I design, deploy, observe, and operate modern distributed systems using cloud-native architecture patterns.
 
 ---
 
