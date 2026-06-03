@@ -86,9 +86,9 @@ migrations in regulated banking environments
 These projects represent my architecture portfolio across distributed systems, cloud infrastructure,
 platform engineering, and reliability patterns.
 
-<p align="left">
-[![Architecture Project](https://github-readme-stats.vercel.app/api/pin/?username=Vegetam&repo=Architecture-Project&theme=default)](https://github.com/Vegetam/Architecture-Project)
-</p>
+<a href="https://github.com/Vegetam/Architecture-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vegetam&repo=Architecture-Project&theme=default" />
+</a>
 
 <p align="left">
   <a href="https://github.com/Vegetam/Saga-pattern-architecture">
