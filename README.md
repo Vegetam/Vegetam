@@ -1,22 +1,29 @@
 <p align="left">
-<a href="https://github.com/Vegetam">
+  <a href="https://github.com/Vegetam">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=800&height=90&lines=Francesco+Malagrino;Solution+Architect+%7C+Software+Engineering+%7C+AI+%7C+NLP" alt="Typing SVG" />
-</a>
-<br/>
+  </a>
+</p>
 
-<a href="https://www.francescomalagrino.com">
-    <img src="https://img.shields.io/badge/Website-vegetam-red?style=flat-square">
-</a>  
+<p align="left">
+  <a href="https://github.com/sponsors/Vegetam">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4%EF%B8%8F-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor me on GitHub" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/francesco-malagrino-71b63613">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
+<p align="left">
+  <a href="https://www.francescomalagrino.com">
+    <img src="https://img.shields.io/badge/Website-vegetam-red?style=flat-square" alt="Website" />
+  </a>
 
-<br/> 
-<a href="https://github.com/Vegetam">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Vegetam&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+  <a href="https://www.linkedin.com/in/francesco-malagrino-71b63613">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
+<p align="left">
+  <a href="https://github.com/Vegetam">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Vegetam&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+  </a>
 </p>
 
 ## About Me
